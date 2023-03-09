@@ -1,5 +1,2 @@
-hola mundo
-hola mundo
-vamos a añadirle cosas 
+probando git :) 
 
-esto algo mas
