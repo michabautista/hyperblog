@@ -6,6 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #363332;
 }
 #cabecera
 {
@@ -31,8 +32,12 @@ body
     text-align: left;
     border: 1px solid #000;
     margin: auto;
+    background: white;
+    align-items: middle;
+    align-self: middle;
+    vertical-align: middle;
 }
-#container h1
+#post h1
 {
     font-size: 20px;
 }
