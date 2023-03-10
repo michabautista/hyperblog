@@ -57,6 +57,7 @@ body
     text-align: center;
     padding: 1em;
     border: #000;
-    background: #17a72a;
-    color: aqua;
+    background: brown;
+    font-size: 20px;
+    color: white;
 }
